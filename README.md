@@ -1,2 +1,3 @@
-# Zen-Interview---Checkout-Kata
+# Checkout-Kata
  
+Kata in project
